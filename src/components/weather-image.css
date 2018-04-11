@@ -1,0 +1,13 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.cat-weather {
+    width: 520px;
+    height: 520px;
+    height: auto;
+    float: left;
+    margin: 3px;
+    padding: 3px;
+}
